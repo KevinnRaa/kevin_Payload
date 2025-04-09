@@ -32,4 +32,11 @@ pip install colorama
 python3 exploit_generator.py
 
 ```
+⚠️ Disclaimer
+---
+This tool is for educational and ethical hacking purposes only.
+You must have permission to test and deploy any payload generated with this script.
+Misuse of this tool can lead to criminal charges.
+
+---
 
